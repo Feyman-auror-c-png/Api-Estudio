@@ -1,8 +1,10 @@
 # API Studio
 
-Cliente de APIs de escritorio construido con Tauri 2, React, TypeScript y Rust.
+API Studio es una aplicación de escritorio moderna para consumir, probar y monitorear APIs. Permite crear solicitudes HTTP, configurar parámetros, headers y autenticación, enviar contenido JSON, XML o texto y visualizar claramente las respuestas.
 
-Versión actual: **0.2.0**. Consulta [CHANGELOG.md](CHANGELOG.md) para cambios publicados y [ROADMAP.md](ROADMAP.md) para el estado y los pendientes.
+Está construida con Tauri 2, React, TypeScript y Rust.
+
+Versión actual: **0.2.0**. Consulta [CHANGELOG.md](CHANGELOG.md) para los cambios publicados y [ROADMAP.md](ROADMAP.md) para el estado y los pendientes.
 
 ## Funciones disponibles
 
